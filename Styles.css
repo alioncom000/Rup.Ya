@@ -1,0 +1,63 @@
+/* CSS */
+
+/* Body Styling */
+body {
+    background-image: url(https://cdn.wallpapersafari.com/97/23/S26hfq.jpg);
+    border: 3px solid white;
+    border-radius: 16px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Arial, sans-serif; /* tambahkan font family yang konsisten */
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-family: times new roman;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+/* Navigation Styling */
+nav ul {
+    list-style-type: none;
+    border: 5px solid yellow;
+}
+
+nav ul li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+/* Text Styling */
+p {
+    color: white;
+}
